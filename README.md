@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Portfolio Projects  
+# 🚀 Machine Learning Projects using advanced Python  
 ### Toronto Traffic Collision Prediction + Amazon Sales Revenue Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
